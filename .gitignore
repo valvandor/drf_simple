@@ -130,3 +130,6 @@ dmypy.json
 
 # secrets
 todos/env.py
+
+# IDE files
+/.idea/*
